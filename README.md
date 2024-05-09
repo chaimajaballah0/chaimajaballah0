@@ -1,8 +1,6 @@
-Hi there, I'm Chaima Jaballah! 👋👩‍💻
+### Hi there, I'm Chaima Jaballah! 👋👩‍💻
 
-![coding](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
-
-###Just a girl who fell in love with coding, and yes, I "rust" in peace! 😉
+#### Just a girl who fell in love with coding, and yes, I "rust" in peace! 😉
 
 About Me:
 
